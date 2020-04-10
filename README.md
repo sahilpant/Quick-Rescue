@@ -1,7 +1,7 @@
 # Quick-Rescue
 An app for solving the pandemic COVID-19.
-DESCRIPTION
-The main aspect of our idea is to overcome the panic situation among  people due to COVID-19 as they mistakenly consider even a common cold or flu to Corona and thereby create unnecessary burden over the health workers.Our app will help to guide people and get clarification of their symptoms over the phone call or an appointment with the nearby doctor.This will reduce the pressure on the doctors treating corona patients.
+<br><b>DESCRIPTION</b>
+<br>The main aspect of our idea is to overcome the panic situation among  people due to COVID-19 as they mistakenly consider even a common cold or flu to Corona and thereby create unnecessary burden over the health workers.Our app will help to guide people and get clarification of their symptoms over the phone call or an appointment with the nearby doctor.This will reduce the pressure on the doctors treating corona patients.</br>
 The major symptoms of corono virus so far discovered are-
 1. Dry Cough
 2. Fever
