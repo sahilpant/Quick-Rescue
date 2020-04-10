@@ -16,7 +16,7 @@ In the second case of all the symptoms been checked the user will be directed to
 <br>1 To talk to the User's Local Government Helpline.
 <br>2 To see the nearest available facility for COVID-19 treatment.
 If the user chooses the 1st option, then the hepline numbers of all the states and union territories will be displayed in the form of a list , as soon as the user selects a state the respective helpline number will be copied to their dialpad and the user will be able to contact the respective authority and in case of high severity can be isolated as soon as posible.
-If the user chooses the 2nd option, then the location of nearest avialable facility based on various parameters like availability of ventilators,doctors and other necessary resources for the treatment will be shown to the user.So,the user can visit the facility and get treated as soon as possible.<br>
+<br>If the user chooses the 2nd option, then the location of nearest avialable facility based on various parameters like availability of ventilators,doctors and other necessary resources for the treatment will be shown to the user.So,the user can visit the facility and get treated as soon as possible.<br>
 <br><b>HARDWARE REQUIREMENTS:-</b></br>
 1.A working android phone. 
 <br>2.internet facility available.
