@@ -17,5 +17,11 @@ In the second case of all the symptoms been checked the user will be directed to
 2. To see the nearest available facility for COVID-19 treatment.
 If the user chooses the 1st option, then the hepline numbers of all the states and union territories will be displayed in the form of a list , as soon as the user selects a state the respective helpline number will be copied to their dialpad and the user will be able to contact the respective authority and in case of high severity can be isolated as soon as posible.
 If the user chooses the 2nd option, then the location of nearest avialable facility will be shown to the user.So,the user can visit the hospital and get treated as soon as possible.
-HARDWARE REQUIREMENT:-
-A working android phone with internet facility available
+HARDWARE REQUIREMENTS:-
+1.A working android phone. 
+2.internet facility available.
+3.The mobile phone should have a GPS.
+SOFTWARE REQUIREMENTS:-
+1.ANDROID version 4.1.1 Jelly Bean(minimum)
+2.Google Play Services(latest vrsion)
+Process Flow:-
