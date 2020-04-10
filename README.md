@@ -24,6 +24,5 @@ HARDWARE REQUIREMENTS:-
 SOFTWARE REQUIREMENTS:-
 1.ANDROID version 4.1.1 Jelly Bean and above
 2.Google Play Services(latest version)
-
-Process Flow:-
+<br>Process Flow:-</br>
 ![](flowchart.png)
