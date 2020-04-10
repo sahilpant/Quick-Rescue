@@ -9,7 +9,7 @@ The major symptoms of corono virus so far discovered are-
  4. fatigue
 <br>In this app the severity of the symptoms play the key role in determining the chances of a person having the symptons of corona virus.
 We have provided four checkboxes, the user need to check against the respective symptom he/she is suffering from and the count of the checked box will give rise to two situations--
-1 If the count is less than 4,then we consider the symptoms are not too severe and a solution is provided accordingly.
+<br>1 If the count is less than 4,then we consider the symptoms are not too severe and a solution is provided accordingly.
 2 If the count equals to 4 i.e., the user is suffering from all the symptoms,then the severity is considered to be high and the user      will get two options.
 In the first case, the user will be directed to the page displaying the message that the symptoms are not severe and containing the link to the pre existing services such as practo, GroAyu etc.,hence providing a means to the user to contact to the nearest doctor and getting the confirmed information.
 In the second case of all the symptoms been checked the user will be directed to the page displaying two options--
