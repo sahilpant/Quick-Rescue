@@ -65,7 +65,7 @@
         android:layout_marginEnd="39dp"
         android:layout_marginRight="39dp"
         android:layout_marginBottom="270dp"
-        android:text=" Feeling Tired?"
+        android:text=" Feeling tired?"
         android:textSize="35sp"
         android:onClick="selectItem"/>
 
