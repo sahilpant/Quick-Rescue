@@ -59,7 +59,7 @@ public class Main2Activity extends AppCompatActivity {
         @RequiresApi(api = Build.VERSION_CODES.N)
         public void selection(View v)
         {
-            if(sel.stream().count()<4)
+            if(sel.stream().count()>0&&sel.stream().count()<4)
             {
                 Intent intent1 = new Intent(Main2Activity.this,Main3Activity.class);
                 startActivity(intent1);
