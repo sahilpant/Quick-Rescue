@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quick Rescue</string>
+    <string name="Quick_Rescue">Quick Rescue App</string>
+    <string name="next">Next</string>
+    <string name="tick">Tick the symptoms you are experiencing</string>
+    <string name="text">TO TALK TO YOUR LOCAL GOVERNMENT HELPLINE TAP THE BUTTON BELOW.</string>
+    <string name="text2">TO SEE THE NEAREST AVAILABLE FACILITY FOR COVID-19 TREATMENT TAP THE BUTTON BELOW.</string>
+    <string name="text3">AS OF NOW YOUR SYMPTOMS ARE NOT SO SEVERE THERE IS A POSSIBILITY THAT YOU ARE NOT SUFFERING FROM
+    COVID-19 SO WE WILL SUGGEST YOU TO CONSULT TO A NEAREST AVAILABLE DOCTOR WHICH IS SHOWN BELOW ACCORDING TO YOUR LOCATION AT PRESENT. </string>
+    <string name="text4">after collaboration from various apps like practo,lybrate,GrowAyu the user will be able to see doctors availability and
+    also book an appointment according to his location</string>
+    <string name="google_maps_API_key" translatable="false">AIzaSyBGVJIMjrNtUY-9G8i8o3Am5hWgyNl2cE8</string>
+    <string name="text5">HERE DEPENDING ON THE  USER LATITUDE AND LONGITUDE THE INFORMATION ABOUT THE NEAREST AVAILABLE FACILITY BE IT ANY HOSPITAL,TESTING FACILITY
+    OR ANY QUARANTINE FACILITY WILL BE LISTED ACCORDING TO THE DATA PROVIDED BY VARIOUS NGOs AND GOVERNMENT AGENCIES</string>
+</resources>

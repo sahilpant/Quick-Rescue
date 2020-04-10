@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textSize="38sp" android:textAlignment="center"
+        android:textColor="@color/Black"
+        android:text="@string/tick"
+        android:paddingTop="16dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="335dp"
+        android:layout_height="56dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="34dp"
+        android:layout_marginLeft="34dp"
+        android:layout_marginEnd="42dp"
+        android:layout_marginRight="42dp"
+        android:layout_marginBottom="421dp"
+        android:text=" DRY Coughing?"
+        android:textColor="#E31A0B"
+        android:textSize="35sp"
+        android:onClick="selectItem"/>
+
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="335dp"
+        android:layout_height="56dp"
+        android:layout_alignParentStart="true"
+        android:textColor="#1580D5"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="38dp"
+        android:layout_marginLeft="38dp"
+        android:layout_marginEnd="38dp"
+        android:layout_marginRight="38dp"
+        android:layout_marginBottom="343dp"
+        android:text=" High Fever?"
+        android:textSize="35sp"
+        android:onClick="selectItem"/>
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="335dp"
+        android:textColor="#12D315"
+        android:layout_height="56dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="36dp"
+        android:layout_marginLeft="36dp"
+        android:layout_marginTop="55dp"
+        android:layout_marginEnd="39dp"
+        android:layout_marginRight="39dp"
+        android:layout_marginBottom="270dp"
+        android:text=" Feeling Tired?"
+        android:textSize="35sp"
+        android:onClick="selectItem"/>
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:textColor="@color/colorPrimary"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="36dp"
+        android:layout_marginLeft="36dp"
+        android:layout_marginEnd="39dp"
+        android:layout_marginRight="39dp"
+        android:layout_marginBottom="166dp"
+        android:text=" Difficulty In Breathing?"
+        android:textSize="35sp"
+        android:onClick="selectItem"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="164dp"
+        android:layout_marginRight="164dp"
+        android:layout_marginBottom="81dp"
+        android:text="@string/next"
+        android:onClick="selection"/>
+</RelativeLayout>
